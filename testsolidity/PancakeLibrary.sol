@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity =0.6.6;
 
-import "./IPancakePair.sol";
+import './IPancakePair.sol';
 
-import "./SafeMath.sol";
+import './SafeMath.sol';
 
 library PancakeLibrary {
     using SafeMath for uint;
